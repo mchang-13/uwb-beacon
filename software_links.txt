@@ -1,0 +1,4 @@
+Links of required software
+
+ROS Noetic Linux install: https://wiki.ros.org/noetic/Installation/Ubuntu
+*How to create ROS workspace: http://wiki.ros.org/catkin/Tutorials/create_a_workspace
