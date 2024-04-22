@@ -51,6 +51,9 @@ Now that you have your network set up, we can test to check the location of the 
 in the same terminal, type 'les' and press enter.
 This will show the different anchors and their position inside brackets. this is the anchor position in x,y,z. the number after is the range between the tag and the anchor. at the end of the output, the estimate shows the estimated position of the tag in x,y,z, quality factor--quality factor is the measurement of confidence in the accuracy of the estimate based on the ranges received. 
 
+# References
+
+These are the reference links to all documentation of our project. [*Reference List*](https://github.com/mchang-13/uwb-beacon/blob/main/reference.md)
 
 
 
