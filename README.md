@@ -5,7 +5,7 @@ High Precision Drone Landing Utilizing UWB Beacons
 
 The goal of the project is to have the drone land autonomously on a platform using UWB beacons. We are doing so by Interfacing the beacons with the intel UP board. The intel board would then interface with the Pixhawk to be able to send signals to the drone to land autonomously at the right positions.
 
-### components   
+### Components   
 
 Drone: DIY F550 Hexacopter Frame Kit with Pixhawk Fight Controller+7M +Simonk 30A ESC + 2212 920KV Motor
 
@@ -50,6 +50,11 @@ This should configure your network.
 Now that you have your network set up, we can test to check the location of the tag to the anchors. 
 in the same terminal, type 'les' and press enter.
 This will show the different anchors and their position inside brackets. this is the anchor position in x,y,z. the number after is the range between the tag and the anchor. at the end of the output, the estimate shows the estimated position of the tag in x,y,z, quality factor--quality factor is the measurement of confidence in the accuracy of the estimate based on the ranges received. 
+
+# Future Work
+
+We want to improve our project by implementing the remote control via our Intel board and have the drone fly autonomously. 
+
 
 # References
 
