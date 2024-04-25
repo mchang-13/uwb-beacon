@@ -58,7 +58,7 @@ We want to improve our project by implementing the remote control via our Intel 
 
 # References
 
-These are the reference links to all documentation of our project. [*Reference List*](https://github.com/mchang-13/uwb-beacon/blob/main/reference.md)
+These are the reference links to all documentation of our project. [*Reference List*](https://github.com/mchang-13/uwb-beacon/blob/main/references.md)
 
 
 
